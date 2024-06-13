@@ -1,0 +1,33 @@
+
+body
+{
+    background-color: #747070;
+    padding: 1rem;
+}
+h2{
+    font-size: 5rem;
+    color: #050505;
+    text-align: center;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.yo{
+    width: 24rem;
+    height: auto;
+    border-radius: 27%;
+    padding: 2rem;
+}
+
+div{
+    text-align: center;
+
+}
+h1{
+    text-align: left;
+    color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, se
+    
+}
+footer{
+    text-align: left;
+}
